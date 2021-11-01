@@ -2,7 +2,7 @@
 ## Homework 01
 ### Makefile 조사 및 Line별 comment
 ---
-+ Submit Path : /home/lsp30/HW1/Makefile
++ Submit Path : /home/lsp30/HW/HW1/Makefile
 
 ---
 
